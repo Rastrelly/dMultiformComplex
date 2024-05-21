@@ -1,0 +1,186 @@
+object Form2: TForm2
+  Left = 1172
+  Height = 677
+  Top = 108
+  Width = 385
+  BorderIcons = []
+  BorderStyle = bsToolWindow
+  Caption = 'Tools'
+  ClientHeight = 677
+  ClientWidth = 385
+  FormStyle = fsStayOnTop
+  OnClose = FormClose
+  OnCreate = FormCreate
+  LCLVersion = '3.2.0.0'
+  object Memo1: TMemo
+    Left = 179
+    Height = 677
+    Top = 0
+    Width = 206
+    Align = alRight
+    Lines.Strings = (
+      ''
+    )
+    ReadOnly = True
+    ScrollBars = ssVertical
+    TabOrder = 0
+  end
+  object Panel1: TPanel
+    Left = 0
+    Height = 677
+    Top = 0
+    Width = 179
+    Align = alClient
+    ClientHeight = 677
+    ClientWidth = 179
+    TabOrder = 1
+    object btnStart: TButton
+      Left = 8
+      Height = 25
+      Top = 8
+      Width = 75
+      Caption = 'Start'
+      TabOrder = 0
+      OnClick = btnStartClick
+    end
+    object CheckBox1: TCheckBox
+      Left = 8
+      Height = 19
+      Top = 40
+      Width = 76
+      Caption = 'Enable Log'
+      TabOrder = 1
+    end
+    object Label1: TLabel
+      Left = 8
+      Height = 15
+      Top = 72
+      Width = 93
+      Caption = 'Snowfall Intensity'
+    end
+    object edtSnowIntensity: TEdit
+      Left = 8
+      Height = 23
+      Top = 96
+      Width = 80
+      TabOrder = 2
+      Text = '1'
+      OnChange = edtSnowIntensityChange
+    end
+    object udSnowfallIntensity: TUpDown
+      Left = 88
+      Height = 31
+      Top = 92
+      Width = 17
+      Max = 10000
+      Min = 1
+      OnChanging = udSnowfallIntensityChanging
+      Position = 1
+      TabOrder = 3
+    end
+    object Button1: TButton
+      Left = 8
+      Height = 25
+      Top = 136
+      Width = 75
+      Caption = 'Snow Clr'
+      TabOrder = 4
+      OnClick = Button1Click
+    end
+    object Button2: TButton
+      Left = 8
+      Height = 25
+      Top = 168
+      Width = 75
+      Caption = 'Bg Clr'
+      TabOrder = 5
+      OnClick = Button2Click
+    end
+    object TrackBar1: TTrackBar
+      Left = 8
+      Height = 25
+      Top = 224
+      Width = 160
+      Frequency = -1
+      Min = -10
+      OnChange = TrackBar1Change
+      Position = 1
+      TabOrder = 6
+    end
+    object Label2: TLabel
+      Left = 16
+      Height = 15
+      Top = 208
+      Width = 56
+      Caption = 'Time Scale'
+    end
+    object Label3: TLabel
+      Left = 8
+      Height = 15
+      Top = 255
+      Width = 23
+      Caption = '1/10'
+    end
+    object Label4: TLabel
+      Left = 156
+      Height = 15
+      Top = 256
+      Width = 12
+      Caption = '10'
+    end
+  end
+  object cdSnow: TColorDialog
+    Color = clBlack
+    CustomColors.Strings = (
+      'ColorA=000000'
+      'ColorB=000080'
+      'ColorC=008000'
+      'ColorD=008080'
+      'ColorE=800000'
+      'ColorF=800080'
+      'ColorG=808000'
+      'ColorH=808080'
+      'ColorI=C0C0C0'
+      'ColorJ=0000FF'
+      'ColorK=00FF00'
+      'ColorL=00FFFF'
+      'ColorM=FF0000'
+      'ColorN=FF00FF'
+      'ColorO=FFFF00'
+      'ColorP=FFFFFF'
+      'ColorQ=C0DCC0'
+      'ColorR=F0CAA6'
+      'ColorS=F0FBFF'
+      'ColorT=A4A0A0'
+    )
+    Left = 144
+    Top = 8
+  end
+  object cdBG: TColorDialog
+    Color = clBlack
+    CustomColors.Strings = (
+      'ColorA=000000'
+      'ColorB=000080'
+      'ColorC=008000'
+      'ColorD=008080'
+      'ColorE=800000'
+      'ColorF=800080'
+      'ColorG=808000'
+      'ColorH=808080'
+      'ColorI=C0C0C0'
+      'ColorJ=0000FF'
+      'ColorK=00FF00'
+      'ColorL=00FFFF'
+      'ColorM=FF0000'
+      'ColorN=FF00FF'
+      'ColorO=FFFF00'
+      'ColorP=FFFFFF'
+      'ColorQ=C0DCC0'
+      'ColorR=F0CAA6'
+      'ColorS=F0FBFF'
+      'ColorT=A4A0A0'
+    )
+    Left = 144
+    Top = 64
+  end
+end

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="pMultiformComplex.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="24"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umultiformcomplex.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uMultiformComplex"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="144"/>
+        <CursorPos X="34" Y="157"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uMultiformComplexTools"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="114"/>
+        <CursorPos X="22" Y="114"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <Caret Line="45" Column="73" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <Caret Line="46" Column="73" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <Caret Line="64" Column="23" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="223" Column="21" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <Caret Line="65" Column="23" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="181" Column="21" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="142" Column="61" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <Caret Line="72" Column="14" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <Caret Line="121" Column="17" TopLine="119"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="72" Column="27" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="193" Column="20" TopLine="191"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="260" Column="19" TopLine="241"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="252" Column="38" TopLine="242"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <Caret Line="119" Column="27" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="65" Column="68" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="198" Column="3" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="250" Column="18" TopLine="250"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="82" Column="40" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="268" Column="22" TopLine="256"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <Caret Line="96" Column="7" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="80" Column="13" TopLine="221"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="200" Column="42" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="196" Column="32" TopLine="189"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="200" Column="35" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="263" Column="59" TopLine="260"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="209" Column="28" TopLine="205"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplex.pas"/>
+        <Caret Line="277" Column="27" TopLine="257"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <Caret Line="98" Column="13" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <Caret Line="106" Column="3" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="umultiformcomplextools.pas"/>
+        <Caret Line="101" Column="14" TopLine="84"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
